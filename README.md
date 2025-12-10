@@ -98,11 +98,21 @@ Notebook: `notebooks/ab_test.ipynb`
 
 ## Tools & Packages Used
 
-- Jupyter Notebook
-- Python
-- Pandas
-- Numpy
-- Scikit-learn
-- XGBoost
-- Matplotlib
+**Core Tools**
+- Python  
+- Jupyter Notebook  
+
+**Data Processing**
+- Pandas  
+- Numpy  
+
+**Machine Learning**
+- Scikit-learn  
+- XGBoost  
+
+**Visualization**
+- Matplotlib  
+- Seaborn  
+
+**Statistics**
 - Scipy
