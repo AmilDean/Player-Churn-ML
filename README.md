@@ -43,6 +43,17 @@ Analysis includes:
 - Visual comparison of churned vs active players
 - Insights into how engagement metrics relate to retention
 
+  ### Key EDA Visuals
+
+| Churn Distribution | Churned vs Active – Avg Playtime |
+|-------------------|-----------------------------------|
+| <img src="plots/churn_distribution.png" width="300"> | <img src="plots/churned_vs_active_avg_playtime.png" width="300"> |
+
+| Feature Correlation Heatmap |
+|-----------------------------|
+| <img src="plots/correlation_heatmap.png" width="500"> |
+
+
 Notebook: `notebooks/eda.ipynb`
 
 ## Machine Learning Modeling
