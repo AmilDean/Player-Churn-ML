@@ -51,9 +51,9 @@ Notebook: `notebooks/eda.ipynb`
 
 | Model | Accuracy | F1 (churn) | ROC-AUC | Notes | Visualization |
 |-------|----------|------------|---------|--------|----------------|
-| Logistic Regression | 0.968 | 0.64 | 0.94 | Strong baseline performance | <img src="plots/log_reg_coeffs_pretty.png" width="160"> |
-| Random Forest | 1.00 | 1.00 | 1.00 | Achieved perfect scores due to deterministic churn patterns | <img src="plots/rf_feature_importance_pretty.png" width="160"> |
-| XGBoost | 1.00 | 1.00 | 1.00 | Similar perfect scores with boosted trees | <img src="plots/xgb_feature_importance_pretty.png" width="160"> |
+| Logistic Regression | 0.968 | 0.64 | 0.94 | Strong baseline performance | <img src="plots/log_reg_coeffs.png" width="160"> |
+| Random Forest | 1.00 | 1.00 | 1.00 | Achieved perfect scores due to deterministic churn patterns | <img src="plots/rf_feature_importance.png" width="160"> |
+| XGBoost | 1.00 | 1.00 | 1.00 | Similar perfect scores with boosted trees | <img src="plots/xgb_feature_importance.png" width="160"> |
 
 
 ### Key Insights
